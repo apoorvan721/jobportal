@@ -1,8 +1,3 @@
-Thank you for using our template!
-
-For more awesome templates please visit https://colorlib.com/wp/templates/
-
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+The job portal is a comprehensive web platform facilitating job search and recruitment developed using the MVC 
+model. It comprises three modules - Admin for site management, Job providers to post job opportunities, and Job 
+seekers to explore and apply for jobs, streaming the employment process for both employers and candidates
